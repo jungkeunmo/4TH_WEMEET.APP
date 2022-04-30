@@ -12,8 +12,6 @@ const Whole = styled.section`
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
-
-    padding: 10px;
 `;
 
 const AppHeader = styled.header`
